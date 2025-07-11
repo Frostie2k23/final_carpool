@@ -1,6 +1,6 @@
 # car_pool
 
-A new Flutter project.
+CarPooling application for university campus.
 
 ## Getting Started
 
