@@ -21,6 +21,7 @@ UniPool connects students travelling to and from campus, making it easy to find 
 
 ## Project Structure
 
+
 ```
 final_carpool/
 ├── lib/                    # Main Flutter application code
@@ -32,11 +33,10 @@ final_carpool/
 ├── macos/                  # macOS desktop configuration
 ├── test/                   # Unit and widget tests
 ├── backend/
-│   └── backend/
-│       ├── functions/      # Firebase Cloud Functions
-│       ├── firestore.rules # Firestore security rules
-│       ├── storage.rules   # Storage security rules
-│       └── database.rules  # Realtime Database rules
+│   ├── functions/          # Firebase Cloud Functions
+│   ├── firestore.rules     # Firestore security rules
+│   ├── storage.rules       # Storage security rules
+│   └── database.rules      # Realtime Database rules
 └── pubspec.yaml            # Flutter dependencies
 ```
 
